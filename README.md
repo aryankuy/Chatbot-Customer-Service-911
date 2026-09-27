@@ -2,12 +2,12 @@
 Membuat chatbot khusus Customer Service 911 - tugas Hactiv8
 
 Tools:
-Google Colab
-Ngrok
-Langchain
-Streamlit
-API Groq
-Model "openai/gpt-oss-20b"
+- Google Colab
+- Ngrok
+- Langchain
+- Streamlit
+- API Groq
+- Model "openai/gpt-oss-20b"
 
 Screenshot:
 https://github.com/aryankuy/Chatbot-Customer-Service-911/blob/069edd18654d08c3e62f3ee058ff098611edde00/Screenshot%20UI.png
